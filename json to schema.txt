@@ -1,0 +1,3 @@
+schema convert link: https://www.liquid-technologies.com/online-json-to-schema-converter
+
+schema validator link: https://www.jsonschemavalidator.net/  

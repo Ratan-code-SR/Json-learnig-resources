@@ -1,0 +1,44 @@
+{
+    "students": [
+      {
+        "middlename": null,
+        "cgpa": 3.56,
+        "isRegister": false,
+        "languaes": [
+          "bangla",
+          "english"
+        ],
+        "friends": [
+          {
+            "name": "ripa",
+            "age": 34
+          },
+          {
+            "name": "miki",
+            "age": 56
+          }
+        ]
+      },
+      {
+        "name": "andy smith",
+        "middlename": null,
+        "cgpa": 3.5,
+        "isRegister": true,
+        "languaes": [
+          "bangla",
+          "english",
+          "hindi"
+        ],
+        "friends": [
+          {
+            "name": "Riki",
+            "age": 39
+          },
+          {
+            "name": "kita",
+            "age": 50
+          }
+        ]
+      }
+    ]
+  }
